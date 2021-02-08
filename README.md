@@ -1,7 +1,7 @@
 # OLTP_TO_OLAP_FACT_LOAD_SSIS_NZD_SALES
 # OLTP (AdventureWorks2014) to OLAP (AdventureWorksDW2014) Fact table load using SSIS to calculate sales in New Zealand dollars
-# Sales in New Zealand dollars by Muhammad Qasim Data Engineer -- Sunday 07-Feb-2021
-# [AdventureWorks2014] to [AdventureWorksDW2014]
+Sales in New Zealand dollars by Muhammad Qasim Data Engineer -- Sunday 07-Feb-2021
+[AdventureWorks2014] to [AdventureWorksDW2014]
 
 # Tools used for this solution:
 1) SQL Server 2014
