@@ -33,6 +33,8 @@ Q3- How your solution could be made better
 4- Fact table can be made in SSIS package to reduce the overhead and execution cost.
 5- Python script (in Windows Dos/Linux) and SSIS package (on "SSISDB" in SQL Server "Integration Services Catalogs") can be scheduled to execute for certain time as per the business requirements.
 6- Slowly Changing Dimension (SCD) Type 2 can be used to keep historical attributes and make the solution more efficient.
+7- Checkpoint file can be configured in SSIS package/s to restart from the point of failure.
+8- Database constraints can be inforced to remove the inconsistencies and anomalies in data.
 
 
 Note: Please execute the last part of SQL "Scripts_to_Execute in Source_Destination.sql" to get the quantity, sales amount and product Color in New Zealand dollars.
